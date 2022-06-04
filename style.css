@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font-family: 'Press Start 2P', sans-serif;
+    font-family: 'Staatliches', sans-serif;
     color: #eee;
     background-color: #222;
     /* background-color: #60b347; */
